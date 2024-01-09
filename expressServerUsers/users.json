@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alina",
+      "secondName": "Ivanova",
+      "city": "Moscow-2",
+      "age": 27
+    },
+    {
+      "id": 1704835018485,
+      "name": "ere",
+      "secondName": "Ivanov2",
+      "city": "Moscow-2",
+      "age": 27
+    }
+  ]
+}
